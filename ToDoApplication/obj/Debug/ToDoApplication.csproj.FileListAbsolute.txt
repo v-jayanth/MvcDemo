@@ -1,0 +1,106 @@
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.csprojResolveAssemblyReference.cache
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\ApplicationInsights.config
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\roslyn\csc.exe
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\roslyn\System.Collections.Immutable.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\roslyn\vbc.exe
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\roslyn\VBCSCompiler.exe
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\roslyn\VBCSCompiler.exe.config
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\ToDoApplication.dll.config
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\ToDoApplication.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\ToDoApplication.pdb
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\Microsoft.AI.Web.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\Microsoft.AI.WindowsServer.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\Microsoft.ApplicationInsights.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\Microsoft.Web.Infrastructure.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\System.Web.Helpers.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\System.Web.Mvc.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\System.Web.Razor.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Deployment.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Razor.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\Microsoft.AI.Web.xml
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\Microsoft.AI.WindowsServer.xml
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\Microsoft.ApplicationInsights.xml
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\System.Web.Razor.xml
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.xml
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Deployment.xml
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Razor.xml
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\System.Web.Helpers.xml
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\System.Web.Mvc.xml
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.pdb
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\Antlr3.Runtime.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\Newtonsoft.Json.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\System.Web.Optimization.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\WebGrease.dll
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\Antlr3.Runtime.pdb
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\Newtonsoft.Json.xml
+c:\users\bhavitha.annam\documents\visual studio 2015\Projects\ToDoApplication\ToDoApplication\bin\System.Web.Optimization.xml
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\ApplicationInsights.config
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\roslyn\csc.exe
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\roslyn\System.Collections.Immutable.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\roslyn\System.Reflection.Metadata.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\roslyn\vbc.exe
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\roslyn\VBCSCompiler.exe
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\roslyn\VBCSCompiler.exe.config
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\ToDoApplication.dll.config
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\ToDoApplication.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\ToDoApplication.pdb
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\Antlr3.Runtime.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\Microsoft.AI.Agent.Intercept.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\Microsoft.AI.DependencyCollector.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\Microsoft.AI.Web.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\Microsoft.AI.WindowsServer.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\Microsoft.ApplicationInsights.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\Microsoft.Web.Infrastructure.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\Newtonsoft.Json.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\System.Web.Helpers.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\System.Web.Mvc.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\System.Web.Optimization.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\System.Web.Razor.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Deployment.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Razor.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\WebGrease.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\Antlr3.Runtime.pdb
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\Microsoft.AI.DependencyCollector.xml
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\Microsoft.AI.Web.xml
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\Microsoft.AI.WindowsServer.xml
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\Microsoft.ApplicationInsights.xml
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\Newtonsoft.Json.xml
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\System.Web.Optimization.xml
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\System.Web.Razor.xml
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.xml
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Deployment.xml
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Razor.xml
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\System.Web.Helpers.xml
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\bin\System.Web.Mvc.xml
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.csprojResolveAssemblyReference.cache
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.dll
+\\fileshare\Saturday Training\Content\Azure\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.pdb
